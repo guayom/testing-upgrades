@@ -1,8 +1,8 @@
 import OutdateComponent from outdated-lib
-import OtherComponent from other-lib
+import NewFeature from other-lib
 
 <OutdateComponent>
-    <OtherComponent>
-        Some content
-    </OtherComponent>
+    <NewFeature>
+        Some NEW FEATURE content
+    </NewFeature>
 </OutdateComponent>
