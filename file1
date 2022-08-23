@@ -1,8 +1,8 @@
-import OutdateComponent from outdated-lib
+import UpdatedComponent from updated-lib
 import OtherComponent from other-lib
 
-<OutdateComponent>
+<UpdatedComponent>
     <OtherComponent>
-        Some content
+        Some UPDATED content
     </OtherComponent>
-</OutdateComponent>
+</UpdatedComponent>
