@@ -1,0 +1,8 @@
+import OutdateComponent from outdated-lib
+import OtherComponent from other-lib
+
+<OutdateComponent>
+    <OtherComponent>
+        Some content
+    </OtherComponent>
+</OutdateComponent>
