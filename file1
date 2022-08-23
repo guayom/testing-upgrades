@@ -1,8 +1,8 @@
 import UpdatedComponent from updated-lib
-import OtherComponent from other-lib
+import NewFeature from other-lib
 
 <UpdatedComponent>
-    <OtherComponent>
-        Some UPDATED content
-    </OtherComponent>
+    <NewFeature>
+        Some UPDATED NEW FEATURE content
+    </NewFeature>
 </UpdatedComponent>
